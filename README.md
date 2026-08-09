@@ -60,4 +60,4 @@ Logistics management platform supporting the complete shipping lifecycle through
 
 - 💼 LinkedIn: https://linkedin.com/in/eslam-muatamed
 - 📧 Email: eslammuatemed@gmail.com
-- 🌐 Portfolio: Coming Soon
+- 🌐 Portfolio: https://eslammuatamed.com
